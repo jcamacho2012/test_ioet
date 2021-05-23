@@ -25,5 +25,5 @@ Requirements:
 Node v11.15
 
 Run application:
-git clone git@github.com:jcamacho2012/test_ioet.git
-In folder of project, open a terminal and execute: node index.js
+*git clone git@github.com:jcamacho2012/test_ioet.git
+*In folder of project, open a terminal and execute: node index.js
